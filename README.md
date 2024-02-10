@@ -1,4 +1,4 @@
 # DjangoResult
 Итоговое задание по Django
-##Логин: admin
-##Пароль: adminNew
+<h2>Логин: admin</h2>
+<h2>Пароль: adminNew</h2>
